@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\obj\Debug\net6.0\Bank OPP Task.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\obj\Debug\net6.0\Bank OPP Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\obj\Debug\net6.0\Bank OPP Task.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\obj\Debug\net6.0\Bank OPP Task.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\obj\Debug\net6.0\Bank OPP Task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\bin\Debug\net6.0\Bank OPP Task.exe
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\bin\Debug\net6.0\Bank OPP Task.deps.json
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\bin\Debug\net6.0\Bank OPP Task.runtimeconfig.json
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\bin\Debug\net6.0\Bank OPP Task.dll
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\bin\Debug\net6.0\Bank OPP Task.pdb
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\obj\Debug\net6.0\Bank OPP Task.dll
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\obj\Debug\net6.0\refint\Bank OPP Task.dll
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\obj\Debug\net6.0\Bank OPP Task.pdb
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\obj\Debug\net6.0\Bank OPP Task.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Bank OPP Task\Bank OPP Task\obj\Debug\net6.0\ref\Bank OPP Task.dll
